@@ -5,7 +5,7 @@
 <h1 align="center">Lovely Stream Deck Icons</h1>
 
 <p align="center">
-A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, for use on your <a href="https://www.elgato.com/en/stream-deck" target="_blank">Elgato Stream Deck</a>.
+A collection of Lovely Icons specifically designed for Sim Racing enthusiasts,</br>for use on your <a href="https://www.elgato.com/en/stream-deck" target="_blank"><strong>Elgato Stream Deck</strong></a> or the <a href="https://lsr.gg/ulanzi-deck" target="_blank"><strong>Ulanzi Stream Controller D200</strong></a>.
 </p>
 
 <br/>
@@ -33,6 +33,11 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 In your **Stream Deck App**, visit the **Store** and search for `Lovely Sim Racing Icons`. You can install the **Icon Pack** directly within the app, and also receive future updates.
 
 [![Elgato Stream Deck Store](./images/elgato-store-button.png)](https://lsr.gg/icons-elgato)
+
+### Ulanzi Marketplace
+In your **Ulanzi Deck**, visit the **Marketplace** and search for `Lovely Sim Racing Icons`. You can install the **Icon Pack** directly within the app.
+
+[![Ulanzi Marketplace](./images/ulanzi-marketplace-button.png)](https://lsr.gg/icons-ulanzi)
 
 ### Standalone Icons
 Alternatively, you can find and download the high resolution icons (.png & .svg) in the :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases). Unzip the file and use the icons on your Stream Deck directly.
